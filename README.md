@@ -10,7 +10,7 @@ By contrast, in a fixed mindset, intelligence and talent are seen as fixed trait
 
 Here’s a simple illustration highlighting the differences between a fixed and a growth mindset:
 
-[mindset_image]()
+[mindset_image](NewGrowthMindset2.webp)
 
 
 
