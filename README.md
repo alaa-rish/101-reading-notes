@@ -3,7 +3,7 @@
 
 The growth mindset can improve your life and open new pathway to move forward, push you for a higher goals.
 
-**What is a growth mindset?**
+#### What is a growth mindset?
 
 A growth mindset stimulate your life with continuais achivments and  makes you in love with learning more and more.
 
@@ -43,6 +43,8 @@ So I’ve learned to ask myself two questions:
 
 
 > * **Success of others**
+For a long time, I was fiercely jealous of people I thought were more successful or more intelligent. But, with the help of our culture of openness and honesty, I was able to understand how the work I do relates to the work of my peers, and how it all comes together to create something awesome.
+So, where I once perceived those I deemed smarter as adversaries, I now see them as dedicated colleagues with a passion for learning. Where I once saw (and was jealous of) more successful managers, I now see peers with skills that complement mine, and together we’re doing some of the best work of our lives. You see, this is the growth mindset at its finest. Where a fixed mindset leads you to see the success of others as a threat, the growth mindset encourages you to see the success of coworkers as an inspiration. See, I told you it was cool.
 
 
 
