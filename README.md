@@ -1,3 +1,12 @@
+Hello,
+This is **_Ala Abu Al-Rish_**, I’m 33 years old. A visionary that handles global data systems and building enterprises infrastructure. Has a total of 7+ years experience as a CTO in the IT and multimedia industry. In addition to 8+ years as a technical creative director for commercial video production. Passionately empowers organizations and individuals who have a vision in innovative ideas that help improve real life applications in the IT sector.
+Graduated from Alzaytoonah University as a Graphic Designer. Created many projects and in media and commercial industries that makes me a founder, co-founder. 
+I’m taking a break now to join this journey to improve and learn the computer and web languages.
+
+Here is my Gethub Account: https://github.com/alaa-rish
+
+
+
 # How you can benefit from a growth mindset
 ![Mindset](https://i1.wp.com/atlassianblog.wpengine.com/wp-content/uploads/2015/11/growth-mindset.png?w=1101&ssl=1)
 
@@ -23,7 +32,7 @@ Here’s an example of when I wasn’t in the right mindset: Moving forward with
 
 
 > * **obstacles**
-My first impulse when I hit a roadblock is to immediately divert my attention to something else. I lose focus, just like it says in the chart above. Whether it’s clicking a tempting bookmark in my browser, nipping out to grab a coffee, or just about anything to delay keeping at it and fighting through the discomfort. A coworker calls this “instant gratification monkey syndrome.” It’s the idea that we’ll do just about anything other than the actual task at hand if it has suddenly become challenging, and especially when there are so many tempting diversions – articles, videos, email, social – mere clicks away.
+I was using my own knowledge without looking for new mentors in many levels. My first impulse when I hit a roadblock is to immediately divert my attention to something else. Changing and starting again in the same way without moving forward and talk to a new mentor makes me feel like i'm moving in a circles every time.
 
 
 
