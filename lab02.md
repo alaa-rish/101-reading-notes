@@ -5,7 +5,7 @@ Hi, This is Ala Abu Alrish. Iv'e learned how to use GitHub with replit, and the 
 Here is sample for a table
 
 
-N\D | Remote   | **Link**
+N\D| Remote   | **Link**
 -- |----------|--------------------------------
 1- | Remote1  | [Link](https://github.com/remote1/example)
 2- | Remote2  | [Link](https://github.com/remote1/example)
