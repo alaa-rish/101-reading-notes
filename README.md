@@ -7,7 +7,7 @@ Graduated from Alzaytoonah University as a Graphic Designer. Created many projec
 I’m taking a break now to join this journey to improve and learn the computer and web languages.
 
 
-Here is sample for a table
+Here Are Links for Reads of what i'v learned in 101: (Created with Mark Down Codes):
 
 
 N\D| Remote              | **Link**
@@ -16,5 +16,9 @@ N\D| Remote              | **Link**
 2- | Lab 02              | [Link](https://alaa-rish.github.io/101-reading-notes/lab02)
 3- | Read 01             | [Link](https://alaa-rish.github.io/101-reading-notes/read01)
 4- | Read 02             | [Link](https://alaa-rish.github.io/101-reading-notes/read02)
+5- | Read 05             | [Link]()
+6- | Read 06             | [Link]()
+7- | Read 07             | [Link]()
+8- | Read 08             | [Link]()
 
 
