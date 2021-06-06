@@ -7,6 +7,7 @@ Graduated from Alzaytoonah University as a Graphic Designer. Created many projec
 I’m taking a break now to join this journey to improve and learn the computer and web languages.
 
 
+
 Here Are Links for Reads of what i'v learned in 101: (Created with Mark Down Codes):
 
 
