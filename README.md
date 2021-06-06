@@ -16,9 +16,11 @@ N\D| Remote              | **Link**
 2- | Lab 02              | [Link](https://alaa-rish.github.io/101-reading-notes/lab02)
 3- | Read 01             | [Link](https://alaa-rish.github.io/101-reading-notes/read01)
 4- | Read 02             | [Link](https://alaa-rish.github.io/101-reading-notes/read02)
-5- | Read 05             | [Link]()
-6- | Read 06             | [Link]()
-7- | Read 07             | [Link]()
-8- | Read 08             | [Link]()
+5- | Read 03             | [Link](https://alaa-rish.github.io/101-reading-notes/read03)
+6- | Read 04             | [Link]()
+7- | Read 05             | [Link]()
+8- | Read 06             | [Link]()
+9- | Read 07             | [Link]()
+10-| Read 08             | [Link]()
 
 
