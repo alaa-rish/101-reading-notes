@@ -3,6 +3,7 @@
 This chapter describes JavaScript's expressions and operators, including assignment, comparison, arithmetic, bitwise, logical, string, ternary and more.
 
 
+
 ## Operators
 JavaScript has the following types of operators. This section describes the operators and contains information about operator precedence.
 - Assignment operators
