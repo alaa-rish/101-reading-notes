@@ -22,7 +22,7 @@ N\D| Remote              | **Link**
 7- | Read 05             | [Link]()
 6- | Read 06             | [Link](https://alaa-rish.github.io/101-reading-notes/read06)
 8- | Read 07             | [Link](https://alaa-rish.github.io/101-reading-notes/read07)
-9- | Read 08             | [Link]()
+9- | Read 08             | [Link](https://alaa-rish.github.io/101-reading-notes/read08)
 
 
 
