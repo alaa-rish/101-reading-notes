@@ -1,4 +1,4 @@
-# This is a summary for some reading topics
+#  Code 201 Reading Notes
 
 Hello,
 
@@ -8,21 +8,28 @@ I’m taking a break now to join this journey to improve and learn the computer 
 
 
 
-Here Are Links for Reads of what i'v learned in 101: (Created with Mark Down Codes):
+Here Are Links for Reads of what i'v learned in 201: (Created with Mark Down Codes):
 
 
 N\D| Remote              | **Link**
 -- |---------------------|--------------------------------
-1- | The Growth Mindset  | [Link](https://alaa-rish.github.io/101-reading-notes/lab01)
-2- | Lab 02              | [Link](https://alaa-rish.github.io/101-reading-notes/lab02)
-3- | Read 01             | [Link](https://alaa-rish.github.io/101-reading-notes/read01)
-4- | Read 02             | [Link](https://alaa-rish.github.io/101-reading-notes/read02)
-5- | Read 03             | [Link](https://alaa-rish.github.io/101-reading-notes/read03)
-6- | Read 04             | [Link](https://alaa-rish.github.io/101-reading-notes/read04)
-7- | Read 05             | [Link]()
-6- | Read 06             | [Link](https://alaa-rish.github.io/101-reading-notes/read06)
-8- | Read 07             | [Link](https://alaa-rish.github.io/101-reading-notes/read07)
-9- | Read 08             | [Link](https://alaa-rish.github.io/101-reading-notes/read08)
+01- | Read 01             | [Link]()
+02- | Read 02             | [Link]()
+03- | Read 03             | [Link]()
+04- | Read 04             | [Link]()
+05- | Read 05             | [Link]()
+06- | Read 06             | [Link]()
+07- | Read 07             | [Link]()
+08- | Read 08             | [Link]()
+09- | Read 09             | [Link]()
+10- | Read 10             | [Link]()
+11- | Read 11             | [Link]()
+12- | Read 12             | [Link]()
+13- | Read 13             | [Link]()
+14- | Read 14             | [Link]()
+15- | Read 15             | [Link]()
+
+
 
 
 
